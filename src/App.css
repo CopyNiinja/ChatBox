@@ -1,0 +1,6 @@
+@import url("https://api.fontshare.com/v2/css?f[]=satoshi@500&display=swap" rel="stylesheet");
+.App{
+    min-height: 100vh;
+    background-image: url("./livechatapp.jpg");
+    background-size: cover;
+}
